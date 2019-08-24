@@ -1,4 +1,5 @@
 # android
-Task 1 sfwef
-
-Task 4 t7
+КРИТИЧЕСКАЯ ОШИБКА С НАЗВАНИЕМ ПРОЕКТОВ:
+1-таск: sfwef
+3: MyApplication
+5: t7
